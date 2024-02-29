@@ -23,7 +23,7 @@ My goals for the near future include:
 
 I'd love to connect with fellow beginners and seasoned developers alike! Feel free to reach out to me on:
 
-- LinkedIn:_________________________________
+- LinkedIn: https://www.linkedin.com/in/akhlaque-nabi-201a922a9?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 - Twitter: https://twitter.com/Akhlaque_nabi
 
 Let's learn and grow together! 🚀
