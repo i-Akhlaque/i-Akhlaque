@@ -26,7 +26,6 @@ Welcome to my GitHub profile! I'm on an exciting journey to explore the vast wor
 - **React.js** ⚛️
 - **Node.js** 🟢
 
-
 ---
 
 ## 📚 Learning Resources
