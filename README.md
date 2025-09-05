@@ -8,17 +8,7 @@
   Akhlaque Nabi
 </h1>
 <!-- HEADER: Logo and Name at top, huge gap between them -->
-<table width="100%">
-  <tr>
-    </td>
-    <td width="60%"></td> <!-- HUGE GAP -->
-    <td align="right" valign="middle">
-      <h1 style="color:#1e90ff;font-size:2.7rem;font-weight:bold;letter-spacing:2px;margin:0;">
-        <strong>Akhlaque Nabi</strong>
-      </h1>
-    </td>
-  </tr>
-</table>
+
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/i-Akhlaque?label=Followers&color=36BCF7&style=flat-square" />
