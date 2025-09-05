@@ -10,8 +10,6 @@
 <!-- HEADER: Logo and Name at top, huge gap between them -->
 <table width="100%">
   <tr>
-    <td align="left" width="140" valign="middle">
-      <img src="https://cdn.cosmos.so/51c8eeef-f103-4b1b-805c-e5b3d91e65bb?format=jpeg" width="100" style="border-radius:22px;box-shadow:0 4px 24px #36BCF799;" alt="Akhlaque Nabi Logo" />
     </td>
     <td width="60%"></td> <!-- HUGE GAP -->
     <td align="right" valign="middle">
