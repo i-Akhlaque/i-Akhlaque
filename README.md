@@ -4,7 +4,9 @@
   <img src="https://user-images.githubusercontent.com/42029519/193863609-ff995ff9-53ee-426d-8591-be35005f5b5d.svg" alt="Foot steps" width="390" style="opacity:0.97;" />
 </div>
 <br>
-
+<h1 align="center" style="font-size:3.2rem;letter-spacing:2px;font-family:'Georgia',serif;font-weight:900;color:#fff;margin-bottom:0;">
+  Akhlaque Nabi
+</h1>
 <!-- HEADER: Logo and Name at top, huge gap between them -->
 <table width="100%">
   <tr>
