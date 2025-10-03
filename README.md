@@ -19,36 +19,6 @@
 
 ---
 
-<!-- CATCHUP SECTION: Redesigned for graphical beauty -->
-<h2 align="center" style="font-size:2.1rem;letter-spacing:1.5px;color:#36BCF7;">
-  ✨ Catchup
-</h2>
-<div align="center" style="display:flex;justify-content:center;gap:32px;flex-wrap:wrap;">
-  <a href="https://github.com/i-Akhlaque/Portfolio" style="text-decoration:none;">
-    <div style="background:linear-gradient(135deg,#28243d 60%,#36BCF7 120%); border-radius:18px; box-shadow:0 4px 24px #36BCF799; padding:22px 28px 18px 28px; margin:12px; display:inline-block; min-width:260px;">
-      <h3 style="color:#fff;font-size:1.45rem;font-weight:bold;margin-bottom:10px;letter-spacing:1px;">Portfolio</h3>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=i-Akhlaque&repo=Portfolio&theme=dark&border_color=43DD7A" style="border-radius:12px;" />
-      <p style="color:#b6e6ff;margin-top:7px;font-size:0.98rem;">Personal website & profile, built with modern tech & design.</p>
-    </div>
-  </a>
-  <a href="https://github.com/i-Akhlaque/Automated" style="text-decoration:none;">
-    <div style="background:linear-gradient(135deg,#222 60%,#43DD7A 120%); border-radius:18px; box-shadow:0 4px 20px #43DD7A66; padding:22px 28px 18px 28px; margin:12px; display:inline-block; min-width:260px;">
-      <h3 style="color:#fff;font-size:1.45rem;font-weight:bold;margin-bottom:10px;letter-spacing:1px;">Automated</h3>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=i-Akhlaque&repo=Automated&theme=dark&border_color=43DD7A" style="border-radius:12px;" />
-      <p style="color:#b6ffdf;margin-top:7px;font-size:0.98rem;">Scripts & tools for automating productivity and workflow.</p>
-    </div>
-  </a>
-  <a href="https://github.com/i-Akhlaque/Front-End" style="text-decoration:none;">
-    <div style="background:linear-gradient(135deg,#223348 60%,#F7C873 120%); border-radius:18px; box-shadow:0 4px 20px #F7C87388; padding:22px 28px 18px 28px; margin:12px; display:inline-block; min-width:260px;">
-      <h3 style="color:#fff;font-size:1.45rem;font-weight:bold;margin-bottom:10px;letter-spacing:1px;">Front-End</h3>
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=i-Akhlaque&repo=Front-End&theme=dark&border_color=F7C873" style="border-radius:12px;" />
-      <p style="color:#ffe6b6;margin-top:7px;font-size:0.98rem;">UI/UX experiments & web components for modern interfaces.</p>
-    </div>
-  </a>
-</div>
-
----
-
 <!-- TECH STACK -->
 <h2 align="center">🛠️ Tech Stack</h2>
 <p align="center">
