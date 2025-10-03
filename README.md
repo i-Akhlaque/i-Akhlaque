@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/followers/i-Akhlaque?label=Followers&color=36BCF7&style=flat-square" />
   <img src="https://img.shields.io/github/stars/i-Akhlaque?label=Stars&color=F7C873&style=flat-square" />
-  <img src="https://img.shields.io/badge/Profile%20Views-9999-blue?style=flat-square" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=i-Akhlaque.i-Akhlaque" />
   <img src="https://img.shields.io/badge/India-FF3F3F?style=flat-square" />
 </p>
 
