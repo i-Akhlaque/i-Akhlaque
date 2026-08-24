@@ -51,7 +51,6 @@
 <!-- STATS SECTION -->
 <h2 align="center">📊 GitHub Stats & Achievements</h2>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=i-Akhlaque&theme=dark&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api?username=i-Akhlaque&show_icons=true&theme=dark&hide_title=true&count_private=true&border_radius=7&hide_border=true" alt="GitHub Stats" />
   <br>
