@@ -1,280 +1,208 @@
+# Akhlaque Nabi
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B0B0F,50:16161D,100:0B0B0F&height=210&section=header&text=AKHLAQUE%20NABI&fontSize=48&fontColor=EDEDED&fontAlignY=42&desc=FULL-STACK%20ENGINEER%20%E2%80%A2%20JAVA%2FSPRING%20%E2%80%A2%20GENAI&descSize=13&descAlignY=62&descColor=C9A876&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:2563EB,100:06B6D4&height=220&section=header&text=Akhlaque%20Nabi&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20Backend%20%7C%20AI%20Explorer&descAlignY=60&descSize=18" width="100%" />
 
-<sub>⋆ ⋅ ☆ ⋅ ⋆&nbsp;&nbsp;&nbsp; LUCKNOW, INDIA — EST. 2023 &nbsp;&nbsp;&nbsp;⋆ ⋅ ☆ ⋅ ⋆</sub>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=I+build+useful+things+with+code.;MERN+%2B+Java+%2B+Spring+Boot.;Exploring+AI%2C+GenAI%2C+Cloud+and+IoT.;Learning+deeply.+Building+consistently." alt="Typing introduction" />
 
-<br/><br/>
-
-<a href="https://github.com/i-Akhlaque">
-  <img src="https://readme-typing-svg.demolab.com/?lines=building+at+the+intersection+of+MERN+%2B+Java%2FSpring;shipping+AI-driven+%2F+IoT+systems+that+solve+real+problems;currently%3A+DSA+%2B+cloud+%2B+one+very+judgmental+cat&font=JetBrains+Mono&center=true&width=620&height=35&color=C9A876&vCenter=true&size=15&pause=1500&duration=2600&weight=500"/>
-</a>
-
-<br/>
-
-<a href="https://www.linkedin.com/in/akhlaque-nabi-201a922a9/"><img src="https://img.shields.io/badge/LinkedIn-EDEDED?style=flat-square&logo=linkedin&logoColor=0B0B0F"/></a>&nbsp;
-<a href="mailto:akhlaquenabi333@gmail.com"><img src="https://img.shields.io/badge/Email-EDEDED?style=flat-square&logo=gmail&logoColor=0B0B0F"/></a>&nbsp;
-<a href="https://github.com/i-Akhlaque"><img src="https://img.shields.io/badge/GitHub-EDEDED?style=flat-square&logo=github&logoColor=0B0B0F"/></a>
+<a href="https://github.com/i-Akhlaque"><img src="https://img.shields.io/badge/GitHub-i--Akhlaque-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/akhlaque-nabi-201a922a9/"><img src="https://img.shields.io/badge/LinkedIn-Akhlaque%20Nabi-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:akhlaquenabi333@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
 </div>
 
-<br/>
+---
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B0F,50:C9A876,100:0B0B0F&height=2&section=header" width="100%"/>
+## `01 / PROFILE`
 
-<br/>
+I’m **Akhlaque Nabi**, a Computer Science and Engineering student at **Integral University**, focused on becoming a versatile software engineer.
 
-## ␑ About
+My work sits at the intersection of:
 
-I'm a Computer Science undergraduate (B.Tech CSE, Integral University, 2023–2027) building toward one thing: **software that ships and holds up in production.** My work spans full-stack product engineering on the MERN stack, backend systems in Java with Spring Boot, and applied AI/GenAI — backed by a growing base in cloud and IoT.
+- Modern frontend experiences
+- Java and Spring Boot backend systems
+- MERN-based full-stack applications
+- AI and Generative AI
+- Cloud and connected systems
+- Practical problem solving
 
-```text
-$ whoami --focus
+> **Learn deeply. Build boldly. Ship consistently.**
 
-  role        Computer Science undergrad, Integral University (2023–2027)
-  building    full-stack products, Java/Spring services, AI-driven tools
-  stack       MERN · Java + Spring Boot · REST APIs · MongoDB/MySQL · AWS/OCI
-  right now   sharpening DSA, shipping IoT + AI systems, exploring GenAI
-  driven by   turning a working prototype into something people actually use
-```
+## `02 / CURRENTLY BUILDING`
 
-Outside of coursework, I coordinate technical events for Google Developer Groups, and I've spent time across Java backends, MERN frontends, and hands-on GenAI work through internships and hackathons — this profile is a snapshot of that path.
+| Focus | Direction |
+| :--- | :--- |
+| **Frontend** | React.js, Vite, responsive interfaces |
+| **Java Backend** | Java, Spring Boot, Spring MVC, REST APIs |
+| **Data Layer** | MongoDB, MySQL, Firebase, JPA/JDBC |
+| **AI / GenAI** | LLM applications, prompt engineering, AI workflows |
+| **Cloud** | AWS, Oracle Cloud Infrastructure, Firebase |
+| **Engineering** | DSA, OOP, DBMS, OS, networking, clean architecture |
 
-<br/>
+## `03 / TECHNOLOGY MAP`
 
-<div align="center"><sub>⋆ ⋅ ☆ ⋅ ⋆</sub></div>
+### Languages
 
-<br/>
+<img src="https://skillicons.dev/icons?i=java,javascript,python,html,css" alt="Languages" />
 
-## ␑ Currently
+### Frontend
 
-<table width="100%">
-<tr>
-<td width="25%" valign="top">
+<img src="https://skillicons.dev/icons?i=react,vite,bootstrap" alt="Frontend stack" />
 
-**Frontend**
-<br/>React.js, Vite, responsive UI systems, component-driven design
+### Java Backend
 
-</td>
-<td width="25%" valign="top">
+<img src="https://skillicons.dev/icons?i=java,spring,maven" alt="Java backend stack" />
 
-**Java Backend**
-<br/>Spring Boot, Spring MVC, Spring Data JPA, REST APIs, JDBC
+<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
+<img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring MVC" />
+<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Data JPA" />
+<img src="https://img.shields.io/badge/JDBC-1E293B?style=flat-square&logo=java&logoColor=white" alt="JDBC" />
+<img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
 
-</td>
-<td width="25%" valign="top">
+### MERN / Databases
 
-**AI / GenAI**
-<br/>LLM fundamentals, prompt engineering, applied AI tooling
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="MERN and database stack" />
 
-</td>
-<td width="25%" valign="top">
+### Cloud, DevOps & Tools
 
-**Foundations**
-<br/>Data Structures & Algorithms, cloud basics, IoT + digital twins
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,npm" alt="Cloud and tools" />
 
-</td>
-</tr>
-</table>
+<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Cloud" />
+<img src="https://img.shields.io/badge/Generative%20AI-111827?style=flat-square&logo=openai&logoColor=white" alt="Generative AI" />
+<img src="https://img.shields.io/badge/IoT-0F766E?style=flat-square&logo=arduino&logoColor=white" alt="IoT" />
+<img src="https://img.shields.io/badge/Digital%20Twins-1D4ED8?style=flat-square&logo=databricks&logoColor=white" alt="Digital Twins" />
 
-<br/>
-
-## ␑ Studio Companion
-
-<div align="center">
+## `04 / SELECTED BUILDS`
 
 <table>
-<tr><td align="center" style="padding:14px;">
-
-<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="220"/>
-
-<br/>
-
-<sub><b>FIG. 01</b> — resident QA engineer, mid-review, 2026</sub>
-
-</td></tr>
-</table>
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B0F,50:C9A876,100:0B0B0F&height=2&section=header" width="100%"/>
-
-<br/>
-
-## ␑ Tech Stack
-
-<div align="center">
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,js,py,mysql&theme=dark" />
-
-**Frontend**
-<br/>
-<img src="https://skillicons.dev/icons?i=react,html,css,js,vite,bootstrap&theme=dark" />
-
-**Java Backend**
-<br/>
-<img src="https://skillicons.dev/icons?i=java,spring,maven&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/Spring_MVC-16161D?style=flat-square&logo=spring&logoColor=C9A876"/>
-<img src="https://img.shields.io/badge/Spring_Data_JPA-16161D?style=flat-square&logo=spring&logoColor=C9A876"/>
-<img src="https://img.shields.io/badge/JDBC-16161D?style=flat-square&logo=java&logoColor=C9A876"/>
-<img src="https://img.shields.io/badge/REST_APIs-16161D?style=flat-square&logo=fastapi&logoColor=C9A876"/>
-
-**MERN**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs&theme=dark" />
-
-**Databases**
-<br/>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark" />
-
-**Cloud & DevOps**
-<br/>
-<img src="https://skillicons.dev/icons?i=aws,firebase,git,github,docker,postman&theme=dark" />
-&nbsp;
-<img src="https://img.shields.io/badge/OCI-16161D?style=flat-square&logo=oracle&logoColor=C9A876"/>
-
-**AI / GenAI**
-<br/>
-<img src="https://img.shields.io/badge/Generative_AI-16161D?style=flat-square&logo=openai&logoColor=C9A876"/>
-<img src="https://img.shields.io/badge/LLMs-16161D?style=flat-square&logo=openai&logoColor=C9A876"/>
-<img src="https://img.shields.io/badge/Prompt_Engineering-16161D?style=flat-square&logo=openai&logoColor=C9A876"/>
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=vscode,npm&theme=dark" />
-
-</div>
-
-<br/>
-
-## ␑ Featured Work
-
-<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-**Food Bridge AI**
-<br/>AI-powered web platform that reduces food wastage by connecting surplus food with people and organizations that can use it.
-<br/><sub>`AI` `MERN` `Web Platform` — Ongoing</sub>
-<br/>[Repository →](#)
+### 🍽️ Food Bridge AI
+
+AI-powered web platform designed to reduce food wastage by connecting surplus food with people and organizations that can utilize it.
+
+**Stack:** AI · MERN · Web Platform  
+**Status:** `Ongoing`
 
 </td>
 <td width="50%" valign="top">
 
-**Smart Home IoT Automation System**
-<br/>Smart home automation system for monitoring and controlling connected appliances through a web-based interface.
-<br/><sub>`IoT` `JavaScript` `Node.js` `Firebase` — Ongoing</sub>
-<br/>[Repository →](#)
+### 🏠 Smart Home IoT Automation
+
+Smart-home automation system concept for monitoring and controlling connected appliances through a web interface.
+
+**Stack:** IoT · JavaScript · Node.js · Firebase  
+**Status:** `Ongoing`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**TwinSpark**
-<br/>Intelligent pesticide sprinkling system for targeted agricultural spraying, built on IoT, AI, simulation, and digital twin concepts. Built for Smart India Hackathon 2025.
-<br/><sub>`SIH 2025` `IoT` `AI` `Digital Twin`</sub>
-<br/>[Repository →](#)
+### 🌾 TwinSpark
+
+Intelligent pesticide sprinkling system concept using IoT monitoring, AI, simulation, and digital twin principles.
+
+**Stack:** IoT · AI · Digital Twin  
+**Event:** `SIH 2025`
 
 </td>
 <td width="50%" valign="top">
 
-**Real-Time Chat Application**
-<br/>Responsive real-time chat application using React.js, Firebase Authentication, and Cloud Firestore.
-<br/><sub>`React.js` `Firebase` `Bootstrap` `HTML`</sub>
-<br/>[Repository →](#)
+### 💬 Real-Time Chat Application
+
+Responsive real-time chat application using React.js, Firebase Authentication, and Cloud Firestore.
+
+**Stack:** React · Firebase · Bootstrap  
+**Type:** `Web Application`
 
 </td>
 </tr>
 </table>
 
-<br/>
+## `05 / EXPERIENCE`
 
-## ␑ Experience
+### Google Developer Groups — Integral University
 
-**Technical Coordinator** — Google Developer Groups, Integral University
-<br/><sub>Sep 2025 – Present</sub>
-<br/>Coordinate technical workshops, hackathons, and developer sessions; support students across web development, cloud, and technical learning; drive event planning and community engagement.
+**Technical Coordinator** · `Sep 2025 – Present`
 
-<br/>
+- Coordinate technical workshops, hackathons, developer sessions, and community-focused events.
+- Support students in web development, cloud technologies, software tools, and technical learning.
+- Contribute to event planning, technical execution, and developer community engagement.
 
-**Frontend Developer Intern** — ChiPi Technologies
-<br/><sub>Jun 2026 – Jul 2026</sub>
-<br/>Developed and improved responsive frontend interfaces with React.js, JavaScript, HTML, and CSS; built reusable UI components with the dev team; managed version control and collaborative development via Git/GitHub.
+### ChiPi Technologies
 
-<br/>
+**Frontend Developer Intern** · `Jun 2026 – Jul 2026`
 
-**AI and LLM Intern** — Sipher Web Academy
-<br/><sub>May 2025 – Jul 2025</sub>
-<br/>Explored AI, Large Language Models, prompt engineering, and Generative AI concepts; worked on AI-focused research, content generation, and practical LLM tool application.
+- Developed responsive frontend interfaces using React.js, JavaScript, HTML, and CSS.
+- Collaborated on reusable UI components and user-experience improvements.
+- Used Git and GitHub for version control and collaborative development.
 
-<br/>
+### Sipher Web Academy
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B0F,50:C9A876,100:0B0B0F&height=2&section=header" width="100%"/>
+**AI and LLM Intern** · `May 2025 – Jul 2025`
 
-<br/>
+- Explored Artificial Intelligence, Large Language Models, Generative AI, and prompt engineering.
+- Worked on AI-focused research, content generation, and practical LLM applications.
 
-## ␑ Achievements & Leadership
+## `06 / ACHIEVEMENTS & LEADERSHIP`
 
-- **Technical Coordinator**, Google Developer Groups — Integral University
-- **Smart India Hackathon 2025** — built **TwinSpark**, an IoT/AI-driven digital-twin pesticide sprinkling system
-- **UP Rise 2026** — showcased **DHRUV-X SKYSHIELD**, an adaptive anti-drone defence concept aimed at reducing aerial blindspots in high-altitude border regions
+- **GDG Integral University:** Technical Coordinator
+- **Smart India Hackathon 2025:** TwinSpark — intelligent agricultural pesticide sprinkling system
+- **UP Rise 2026:** Showcased DHRUV-X SKYSHIELD — Adaptive Anti-Drone Defence
 
-<br/>
+## `07 / CERTIFICATIONS`
 
-## ␑ Certifications
+- Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
+- Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
+- IBM Machine Learning with Python — Level 1
+- GeeksforGeeks MongoDB Developer’s Toolkit
+- AWS Knowledge: Cloud Essentials
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/OCI_2025-AI_Foundations_Associate-16161D?style=flat-square&logo=oracle&logoColor=C9A876"/>
-<img src="https://img.shields.io/badge/OCI_2025-Generative_AI_Professional-16161D?style=flat-square&logo=oracle&logoColor=C9A876"/>
-<br/>
-<img src="https://img.shields.io/badge/IBM-ML_with_Python_(L1)-16161D?style=flat-square&logo=ibm&logoColor=C9A876"/>
-<img src="https://img.shields.io/badge/GeeksforGeeks-MongoDB_Toolkit-16161D?style=flat-square&logo=mongodb&logoColor=C9A876"/>
-<img src="https://img.shields.io/badge/AWS-Cloud_Essentials-16161D?style=flat-square&logo=amazonaws&logoColor=C9A876"/>
-
-</div>
-
-<br/>
-
-## ␑ GitHub Analytics
+## `08 / GITHUB SIGNALS`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=i-Akhlaque&show_icons=true&theme=dark&hide_border=true&bg_color=0B0B0F&title_color=C9A876&icon_color=C9A876&text_color=EDEDED"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-Akhlaque&layout=compact&theme=dark&hide_border=true&bg_color=0B0B0F&title_color=C9A876&text_color=EDEDED"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=i-Akhlaque&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&bg_color=0B1220&title_color=38BDF8&icon_color=22D3EE&text_color=E2E8F0" alt="GitHub statistics" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-Akhlaque&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0B1220&title_color=38BDF8&text_color=E2E8F0" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com/?user=i-Akhlaque&theme=dark&hide_border=true&background=0B0B0F&ring=C9A876&fire=C9A876&currStreakLabel=C9A876"/>
+<br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=i-Akhlaque&theme=github-compact&hide_border=true&bg_color=0B0B0F&color=C9A876&line=C9A876&point=EDEDED"/>
+<img src="https://streak-stats.demolab.com?user=i-Akhlaque&theme=tokyonight&hide_border=true&background=0B1220&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8" alt="GitHub streak" />
 
-<br/>
+<br />
 
-<img src="https://komarev.com/ghpvc/?username=i-Akhlaque&style=flat-square&color=16161D&label=Profile+Views"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=i-Akhlaque&bg_color=0B1220&color=CBD5E1&line=38BDF8&point=22D3EE&area=true&hide_border=true" width="100%" alt="GitHub contribution activity" />
 
 </div>
 
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0B0B0F,50:C9A876,100:0B0B0F&height=2&section=header" width="100%"/>
-
-<br/>
+## `09 / CONTRIBUTION MODE`
 
 <div align="center">
 
-### ␑ Let's Connect
-
-<a href="https://www.linkedin.com/in/akhlaque-nabi-201a922a9/"><img src="https://img.shields.io/badge/LinkedIn-EDEDED?style=flat-square&logo=linkedin&logoColor=0B0B0F"/></a>&nbsp;
-<a href="mailto:akhlaquenabi333@gmail.com"><img src="https://img.shields.io/badge/Email-EDEDED?style=flat-square&logo=gmail&logoColor=0B0B0F"/></a>&nbsp;
-<a href="https://github.com/i-Akhlaque"><img src="https://img.shields.io/badge/GitHub-EDEDED?style=flat-square&logo=github&logoColor=0B0B0F"/></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0B0B0F,50:16161D,100:0B0B0F&height=110&section=footer&text=Building%20%E2%80%A2%20Shipping%20%E2%80%A2%20Learning&fontSize=16&fontColor=C9A876&fontAlignY=65" width="100%"/>
+<img src="https://raw.githubusercontent.com/i-Akhlaque/i-Akhlaque/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
 
 </div>
+
+## `10 / CONNECT`
+
+<div align="center">
+
+<a href="https://github.com/i-Akhlaque"><img src="https://img.shields.io/badge/GitHub-i--Akhlaque-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/akhlaque-nabi-201a922a9/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:akhlaquenabi333@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br /><br />
+
+<img src="https://komarev.com/ghpvc/?username=i-Akhlaque&label=Profile%20Views&color=0EA5E9&style=flat-square" alt="Profile views" />
+
+<br /><br />
+
+### BUILDING · LEARNING · SHIPPING
+
+</div>
+'''
+open('/mnt/data/README.md','w',encoding='utf-8').write(readme)
+print('Created /mnt/data/README.md')
