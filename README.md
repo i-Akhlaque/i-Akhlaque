@@ -1,208 +1,226 @@
-# Akhlaque Nabi
+<!-- ===================== PROFILE HEADER ===================== -->
 
-<div align="center">
+<h1 align="center">Akhlaque Nabi</h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1220,50:2563EB,100:06B6D4&height=220&section=header&text=Akhlaque%20Nabi&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Java%20Backend%20%7C%20AI%20Explorer&descAlignY=60&descSize=18" width="100%" />
+<p align="center">
+  <strong>Computer Science Engineering Student • Full-Stack Developer • AI Enthusiast</strong>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=900&color=38BDF8&center=true&vCenter=true&width=850&lines=I+build+useful+things+with+code.;MERN+%2B+Java+%2B+Spring+Boot.;Exploring+AI%2C+GenAI%2C+Cloud+and+IoT.;Learning+deeply.+Building+consistently." alt="Typing introduction" />
+<p align="center">
+  Building practical solutions with modern web technologies, cloud platforms, AI, and automation.
+</p>
 
-<a href="https://github.com/i-Akhlaque"><img src="https://img.shields.io/badge/GitHub-i--Akhlaque-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/akhlaque-nabi-201a922a9/"><img src="https://img.shields.io/badge/LinkedIn-Akhlaque%20Nabi-2563eb?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:akhlaquenabi333@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-06b6d4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<p align="center">
+  <a href="mailto:akhlaquenabi333@gmail.com">
+    <img src="https://img.shields.io/badge/Email-akhlaquenabi333%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/akhlaque-nabi-201a922a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-Akhlaque%20Nabi-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/i-Akhlaque">
+    <img src="https://img.shields.io/badge/GitHub-i--Akhlaque-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://x.com/Akhlaque_nabi">
+    <img src="https://img.shields.io/badge/X-Akhlaque__nabi-000000?style=flat-square&logo=x&logoColor=white" alt="X"/>
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/i-Akhlaque?label=Followers&style=flat-square&color=36BCF7" alt="GitHub Followers"/>
+  <img src="https://img.shields.io/github/stars/i-Akhlaque?label=Stars&style=flat-square&color=F7C873" alt="GitHub Stars"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=i-Akhlaque.i-Akhlaque" alt="Profile Visitors"/>
+  <img src="https://img.shields.io/badge/India-FF9933?style=flat-square&logo=google-earth&logoColor=white" alt="India"/>
+</p>
 
 ---
 
-## `01 / PROFILE`
+<!-- ===================== ABOUT ME ===================== -->
 
-I’m **Akhlaque Nabi**, a Computer Science and Engineering student at **Integral University**, focused on becoming a versatile software engineer.
+## 👨‍💻 About Me
 
-My work sits at the intersection of:
+- 🎓 Computer Science and Engineering student at **Integral University**
+- 💻 Interested in **Full-Stack Web Development** and the **MERN Stack**
+- 🤖 Exploring **Artificial Intelligence, Generative AI, and Large Language Models**
+- ☁️ Learning and working with **Cloud Technologies**
+- 🔧 Building projects involving **IoT, automation, AI, and real-world problem solving**
+- 🚀 Interested in developing scalable, practical, and user-focused applications
+- 🤝 Open to collaboration, technical communities, and innovative projects
 
-- Modern frontend experiences
-- Java and Spring Boot backend systems
-- MERN-based full-stack applications
-- AI and Generative AI
-- Cloud and connected systems
-- Practical problem solving
+---
 
-> **Learn deeply. Build boldly. Ship consistently.**
+<!-- ===================== TECH STACK ===================== -->
 
-## `02 / CURRENTLY BUILDING`
+## 🛠️ Tech Stack
 
-| Focus | Direction |
-| :--- | :--- |
-| **Frontend** | React.js, Vite, responsive interfaces |
-| **Java Backend** | Java, Spring Boot, Spring MVC, REST APIs |
-| **Data Layer** | MongoDB, MySQL, Firebase, JPA/JDBC |
-| **AI / GenAI** | LLM applications, prompt engineering, AI workflows |
-| **Cloud** | AWS, Oracle Cloud Infrastructure, Firebase |
-| **Engineering** | DSA, OOP, DBMS, OS, networking, clean architecture |
+### Programming Languages
 
-## `03 / TECHNOLOGY MAP`
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/>
+</p>
 
-### Languages
+### Frontend Development
 
-<img src="https://skillicons.dev/icons?i=java,javascript,python,html,css" alt="Languages" />
+<p align="center">
+  <img src="https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React.js"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
+</p>
 
-### Frontend
+### Backend and Databases
 
-<img src="https://skillicons.dev/icons?i=react,vite,bootstrap" alt="Frontend stack" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+</p>
 
-### Java Backend
+### Cloud, AI, and Tools
 
-<img src="https://skillicons.dev/icons?i=java,spring,maven" alt="Java backend stack" />
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+  <img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle Cloud"/>
+  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+</p>
 
-<img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot" />
-<img src="https://img.shields.io/badge/Spring%20MVC-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring MVC" />
-<img src="https://img.shields.io/badge/Spring%20Data%20JPA-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Data JPA" />
-<img src="https://img.shields.io/badge/JDBC-1E293B?style=flat-square&logo=java&logoColor=white" alt="JDBC" />
-<img src="https://img.shields.io/badge/REST%20APIs-2563EB?style=flat-square&logo=postman&logoColor=white" alt="REST APIs" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=keras&logoColor=white" alt="Deep Learning"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="Generative AI"/>
+  <img src="https://img.shields.io/badge/LLMs-6E56CF?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Large Language Models"/>
+</p>
 
-### MERN / Databases
+---
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" alt="MERN and database stack" />
+<!-- ===================== PROJECTS ===================== -->
 
-### Cloud, DevOps & Tools
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github,postman,vscode,npm" alt="Cloud and tools" />
-
-<img src="https://img.shields.io/badge/Oracle%20Cloud-F80000?style=flat-square&logo=oracle&logoColor=white" alt="Oracle Cloud" />
-<img src="https://img.shields.io/badge/Generative%20AI-111827?style=flat-square&logo=openai&logoColor=white" alt="Generative AI" />
-<img src="https://img.shields.io/badge/IoT-0F766E?style=flat-square&logo=arduino&logoColor=white" alt="IoT" />
-<img src="https://img.shields.io/badge/Digital%20Twins-1D4ED8?style=flat-square&logo=databricks&logoColor=white" alt="Digital Twins" />
-
-## `04 / SELECTED BUILDS`
-
-<table>
-<tr>
-<td width="50%" valign="top">
+## 🚀 Featured Projects
 
 ### 🍽️ Food Bridge AI
 
-AI-powered web platform designed to reduce food wastage by connecting surplus food with people and organizations that can utilize it.
+An AI-powered platform concept focused on reducing food wastage by connecting surplus food with people and organizations that can use it.
 
-**Stack:** AI · MERN · Web Platform  
-**Status:** `Ongoing`
+**Focus Areas:** Artificial Intelligence • MERN Stack • Food Redistribution • Social Impact
 
-</td>
-<td width="50%" valign="top">
+---
 
-### 🏠 Smart Home IoT Automation
+### 🏠 Smart Home IoT Automation System
 
-Smart-home automation system concept for monitoring and controlling connected appliances through a web interface.
+A smart home automation project designed to monitor and control connected appliances through a web-based interface.
 
-**Stack:** IoT · JavaScript · Node.js · Firebase  
-**Status:** `Ongoing`
+**Focus Areas:** IoT • JavaScript • Node.js • Firebase • Automation
 
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
+---
 
-### 🌾 TwinSpark
+### 🌾 TwinSpark — Intelligent Pesticide Sprinkling System
 
-Intelligent pesticide sprinkling system concept using IoT monitoring, AI, simulation, and digital twin principles.
+An intelligent agricultural solution focused on targeted pesticide spraying through IoT, AI, automation, and digital twin concepts.
 
-**Stack:** IoT · AI · Digital Twin  
-**Event:** `SIH 2025`
+**Focus Areas:** IoT • Artificial Intelligence • Digital Twin • Smart Agriculture
 
-</td>
-<td width="50%" valign="top">
+---
 
 ### 💬 Real-Time Chat Application
 
-Responsive real-time chat application using React.js, Firebase Authentication, and Cloud Firestore.
+A responsive real-time chat application built using React.js and Firebase with authentication and real-time message storage.
 
-**Stack:** React · Firebase · Bootstrap  
-**Type:** `Web Application`
+**Focus Areas:** React.js • Firebase Authentication • Cloud Firestore • Bootstrap
 
-</td>
-</tr>
-</table>
+---
 
-## `05 / EXPERIENCE`
+<!-- ===================== EXPERIENCE ===================== -->
 
-### Google Developer Groups — Integral University
+## 💼 Experience
 
-**Technical Coordinator** · `Sep 2025 – Present`
+- **Technical Coordinator — Google Developer Groups, Integral University**
+  - Coordinating technical workshops, hackathons, developer sessions, and community activities.
 
-- Coordinate technical workshops, hackathons, developer sessions, and community-focused events.
-- Support students in web development, cloud technologies, software tools, and technical learning.
-- Contribute to event planning, technical execution, and developer community engagement.
+- **Frontend Developer Intern — ChiPi Technologies**
+  - Worked on responsive frontend interfaces using React.js, JavaScript, HTML, and CSS.
 
-### ChiPi Technologies
+- **AI and LLM Intern — Sipher Web Academy**
+  - Explored Artificial Intelligence, Large Language Models, Generative AI, and prompt engineering.
 
-**Frontend Developer Intern** · `Jun 2026 – Jul 2026`
+---
 
-- Developed responsive frontend interfaces using React.js, JavaScript, HTML, and CSS.
-- Collaborated on reusable UI components and user-experience improvements.
-- Used Git and GitHub for version control and collaborative development.
+<!-- ===================== CERTIFICATIONS ===================== -->
 
-### Sipher Web Academy
-
-**AI and LLM Intern** · `May 2025 – Jul 2025`
-
-- Explored Artificial Intelligence, Large Language Models, Generative AI, and prompt engineering.
-- Worked on AI-focused research, content generation, and practical LLM applications.
-
-## `06 / ACHIEVEMENTS & LEADERSHIP`
-
-- **GDG Integral University:** Technical Coordinator
-- **Smart India Hackathon 2025:** TwinSpark — intelligent agricultural pesticide sprinkling system
-- **UP Rise 2026:** Showcased DHRUV-X SKYSHIELD — Adaptive Anti-Drone Defence
-
-## `07 / CERTIFICATIONS`
+## 📜 Certifications
 
 - Oracle Cloud Infrastructure 2025 Certified AI Foundations Associate
 - Oracle Cloud Infrastructure 2025 Certified Generative AI Professional
 - IBM Machine Learning with Python — Level 1
-- GeeksforGeeks MongoDB Developer’s Toolkit
+- GeeksforGeeks MongoDB Developer's Toolkit
 - AWS Knowledge: Cloud Essentials
 
-## `08 / GITHUB SIGNALS`
+---
 
-<div align="center">
+<!-- ===================== CONNECT ===================== -->
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=i-Akhlaque&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&bg_color=0B1220&title_color=38BDF8&icon_color=22D3EE&text_color=E2E8F0" alt="GitHub statistics" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-Akhlaque&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&bg_color=0B1220&title_color=38BDF8&text_color=E2E8F0" alt="Top languages" />
+## 🌐 Connect With Me
 
-<br />
+<p align="center">
+  <a href="mailto:akhlaquenabi333@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/akhlaque-nabi-201a922a9/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/Akhlaque_nabi">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://discord.com/users/i.akhlaq3">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+</p>
 
-<img src="https://streak-stats.demolab.com?user=i-Akhlaque&theme=tokyonight&hide_border=true&background=0B1220&ring=38BDF8&fire=22D3EE&currStreakLabel=38BDF8" alt="GitHub streak" />
+---
 
-<br />
+<!-- ===================== GITHUB STATS ===================== -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=i-Akhlaque&bg_color=0B1220&color=CBD5E1&line=38BDF8&point=22D3EE&area=true&hide_border=true" width="100%" alt="GitHub contribution activity" />
+## 📊 GitHub Stats & Achievements
 
-</div>
+<p align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=i-Akhlaque&theme=dark&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D"
+    alt="GitHub Streak"
+  />
+</p>
 
-## `09 / CONTRIBUTION MODE`
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=i-Akhlaque&show_icons=true&theme=dark&hide_title=true&count_private=true&border_radius=7&hide_border=true"
+    alt="GitHub Stats"
+  />
+</p>
 
-<div align="center">
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-Akhlaque&langs_count=8&layout=compact&theme=dark&border_radius=7&hide_border=true"
+    alt="Top Languages"
+  />
+</p>
 
-<img src="https://raw.githubusercontent.com/i-Akhlaque/i-Akhlaque/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=i-Akhlaque&theme=darkhub&no-frame=true&margin-w=10&margin-h=15"
+    alt="GitHub Trophies"
+  />
+</p>
 
-</div>
+---
 
-## `10 / CONNECT`
-
-<div align="center">
-
-<a href="https://github.com/i-Akhlaque"><img src="https://img.shields.io/badge/GitHub-i--Akhlaque-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://www.linkedin.com/in/akhlaque-nabi-201a922a9/"><img src="https://img.shields.io/badge/LinkedIn-Connect-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="mailto:akhlaquenabi333@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20Hello-06B6D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-
-<br /><br />
-
-<img src="https://komarev.com/ghpvc/?username=i-Akhlaque&label=Profile%20Views&color=0EA5E9&style=flat-square" alt="Profile views" />
-
-<br /><br />
-
-### BUILDING · LEARNING · SHIPPING
-
-</div>
-'''
-open('/mnt/data/README.md','w',encoding='utf-8').write(readme)
-print('Created /mnt/data/README.md')
+<p align="center">
+  <em>Building. Learning. Innovating.</em>
+</p>
