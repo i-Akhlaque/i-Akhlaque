@@ -1,9 +1,13 @@
-<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:24243E&height=6&section=header" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=200&section=header&text=AKHLAQUE%20NABI&fontSize=46&fontColor=00E5FF&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Engineer%20%E2%80%A2%20Java%20%2F%20Spring%20Backend%20%E2%80%A2%20GenAI%20Builder&descSize=17&descAlignY=58&descColor=8892B0" width="100%"/>
+<table width="100%">
+<tr>
+<td width="64%" valign="middle">
+
+# Hey, I'm Akhlaque 👋⚡
 
 <a href="https://github.com/i-Akhlaque">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+at+the+intersection+of+MERN+%26+Java+Spring;Shipping+AI-powered+%2F+IoT+systems+that+solve+real+problems;Currently%3A+Data+Structures+%2B+Cloud+%2B+Product+shipping&font=Fira+Code&center=true&width=680&height=45&color=39D0FF&vCenter=true&size=20&pause=1200&duration=2800"/>
+  <img src="https://readme-typing-svg.demolab.com/?lines=Full-Stack+Engineer+%E2%80%A2+Java%2FSpring+Backend+%E2%80%A2+GenAI+Builder;Building+at+the+intersection+of+MERN+%26+Java+Spring;Shipping+AI-powered+%2F+IoT+systems+that+solve+real+problems;Currently%3A+Data+Structures+%2B+Cloud+%2B+Product+shipping&font=Fira+Code&center=false&width=520&height=70&color=39D0FF&vCenter=true&size=18&pause=1200&duration=2600&multiline=true"/>
 </a>
 
 <br/>
@@ -12,7 +16,18 @@
 <a href="mailto:akhlaquenabi333@gmail.com"><img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=0F0C29"/></a>
 <a href="https://github.com/i-Akhlaque"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-</div>
+</td>
+<td width="36%" align="center">
+
+<img src="https://github.com/abhisheknaiidu/abhisheknaiidu/raw/master/code.gif?raw=true" width="260"/>
+<br/>
+<sub>☕ probably debugging something right now</sub>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:24243E,50:302B63,100:0F0C29&height=6&section=header" width="100%"/>
 
 <br/>
 
@@ -230,18 +245,6 @@ Explored AI, Large Language Models, prompt engineering, and Generative AI concep
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=i-Akhlaque&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=39D0FF&line=8A2BE2&point=00E5FF"/>
 
 </div>
-
-<details>
-<summary><b>🐍 Contribution Snake</b></summary>
-<br/>
-<div align="center">
-<img src="https://raw.githubusercontent.com/i-Akhlaque/i-Akhlaque/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-<sub>Renders after the `snake.yml` workflow (below) has run at least once on push — see Setup section.</sub>
-</details>
-
-<br/>
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=i-Akhlaque&style=flat-square&color=39D0FF&label=Profile+Views"/>
