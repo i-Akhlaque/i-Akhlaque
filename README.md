@@ -193,33 +193,36 @@ A responsive real-time chat application built using React.js and Firebase with a
 
 <p align="center">
   <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=i-Akhlaque&theme=dark&hide_border=true&border_radius=7&date_format=j%20M%5B%20Y%5D"
-    alt="GitHub Streak"
+    src="https://github-readme-stats.vercel.app/api?username=i-Akhlaque&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
+    alt="Akhlaque Nabi's GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=i-Akhlaque&show_icons=true&theme=dark&hide_title=true&count_private=true&border_radius=7&hide_border=true"
-    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-Akhlaque&layout=compact&langs_count=8&theme=dark&hide_border=true&cache_seconds=1800"
+    alt="Akhlaque Nabi's Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-Akhlaque&langs_count=8&layout=compact&theme=dark&border_radius=7&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=i-Akhlaque&theme=darkhub&no-frame=true&margin-w=10&margin-h=15"
-    alt="GitHub Trophies"
+    src="https://github-profile-trophy.vercel.app/?username=i-Akhlaque&theme=darkhub&no-frame=true&no-bg=true&column=4&margin-w=10&margin-h=10"
+    alt="Akhlaque Nabi's GitHub Trophies"
   />
 </p>
 
 ---
+
+<!-- ===================== FOOTER IMAGE ===================== -->
+
+<p align="center">
+  <img
+    src="https://user-images.githubusercontent.com/42029519/193472827-923d610d-6fd2-42a4-a712-29cb11a191ca.svg"
+    alt="See you soon"
+    width="72%"
+  />
+</p>
 
 <p align="center">
   <em>Building. Learning. Innovating.</em>
