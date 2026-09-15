@@ -1,167 +1,65 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=230&section=header&text=Akhlaque%20Nabi&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=60&descSize=18" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=850&lines=Building+Secure+%26+Scalable+Solutions;Full+Stack+Developer;Cybersecurity+Enthusiast;AI+%26+Emerging+Technologies;Always+Learning+%7C+Always+Building" alt="Typing SVG"/>
-</a>
-
-<p>
-  <img src="https://komarev.com/ghpvc/?username=i-Akhlaque&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/i-Akhlaque?label=Followers&style=flat&color=blue" alt="Followers"/>
-  <img src="https://img.shields.io/github/stars/i-Akhlaque?label=Stars&style=flat&color=yellow" alt="Stars"/>
-</p>
-
-</div>
-
----
-
-## 👨‍💻 About Me
-
-- 🎓 Computer Science student passionate about technology and innovation.
-- 💻 Full Stack Developer focused on building modern and scalable applications.
-- 🔐 Cybersecurity enthusiast interested in secure systems and ethical hacking.
-- 🤖 Exploring Artificial Intelligence, Machine Learning and emerging technologies.
-- 🚀 Interested in developing real-world solutions with practical impact.
-- 📚 Always learning, experimenting and improving my technical skills.
-
----
-
-## 🛠️ Tech Stack
-
-### Programming Languages
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript" />
-</p>
-
-### Frontend Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
-</p>
-
-### Backend Development
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase" />
-</p>
-
-### Tools & Technologies
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma,postman,docker" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🔹 DHRUV-X SKYSHIELD
-
-Adaptive Anti-Drone Defence system using intelligent detection, simulation and digital-twin-based modelling.
-
-**Focus Areas:**
-
-- Drone detection and classification
-- AI-assisted threat analysis
-- Digital twin and simulation layers
-- Real-time monitoring dashboard
-- Adaptive defence response
-
----
-
-### 🔹 Smart Water Purification & Quality Monitoring
-
-An intelligent water purification and monitoring solution designed to track water quality and provide real-time insights.
-
-**Focus Areas:**
-
-- Water quality monitoring
-- Sensor-based data collection
-- Real-time water statistics
-- Smart purification workflow
-- Interactive dashboard and digital model
-
----
-
-### 🔹 Full Stack Web Applications
-
-Developing responsive and user-friendly web applications with modern frontend and backend technologies.
-
-**Technologies:**
-
-- React.js
-- Node.js
-- Express.js
-- MongoDB
-- REST APIs
-
----
-
-## 💼 Experience & Activities
-
-- 💡 Participating in innovation challenges and hackathons.
-- 🧠 Working on AI, cybersecurity and software development projects.
-- 🛠️ Building prototypes and simulations for real-world problems.
-- 🤝 Collaborating with teams to design and implement technical solutions.
-- 📖 Continuously improving programming, problem-solving and development skills.
-
----
-
-## 🏆 Certifications & Achievements
-
-- Participation in technical hackathons and innovation events.
-- Development of software prototypes and technical demonstrations.
-- Hands-on experience with full stack development.
-- Exploring cybersecurity, AI and emerging technologies.
-
----
-
-## 📊 GitHub Stats & Achievements
+<!-- ===================== HERO HEADER ===================== -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=i-Akhlaque&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true&count_private=true" height="180" alt="Akhlaque's GitHub Stats"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=i-Akhlaque&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" height="180" alt="Top Languages"/>
-
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=i-Akhlaque&theme=tokyonight" width="95%" alt="GitHub Profile Summary"/>
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,45:111827,100:00D9FF&height=220&section=header&text=AKHLAQUE%20NABI&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=FULL%20STACK%20DEVELOPER%20%2F%2F%20CYBERSECURITY%20ENTHUSIAST&descAlignY=61&descSize=17"
+  width="100%"
+  alt="Akhlaque Nabi Header"
+/>
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=i-Akhlaque&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Activity Graph"/>
+<img
+  src="https://readme-typing-svg.demolab.com?font=Space+Mono&size=18&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=850&lines=Designing+digital+experiences+with+purpose.;Building+secure%2C+scalable+and+intelligent+systems.;Exploring+AI+%7C+Cybersecurity+%7C+Full+Stack+Development.;Turning+ideas+into+real-world+solutions."
+  alt="Typing Animation"
+/>
 
-</div>
+<br/>
 
----
+<img src="https://img.shields.io/badge/STATUS-BUILDING%20THE%20FUTURE-00D9FF?style=for-the-badge&labelColor=050505" alt="Status"/>
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK%20%2B%20CYBERSECURITY-111827?style=for-the-badge&labelColor=050505" alt="Focus"/>
+<img src="https://img.shields.io/badge/BASED_IN-INDIA-203A43?style=for-the-badge&labelColor=050505" alt="Location"/>
 
-## 🌐 Connect With Me
-
-<p align="left">
+<br/><br/>
 
 <a href="https://github.com/i-Akhlaque">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/github/followers/i-Akhlaque?label=Followers&style=flat-square&color=00D9FF&labelColor=111827" alt="GitHub Followers"/>
 </a>
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<a href="https://github.com/i-Akhlaque?tab=repositories">
+  <img src="https://img.shields.io/github/stars/i-Akhlaque?label=Repository%20Stars&style=flat-square&color=00D9FF&labelColor=111827" alt="Repository Stars"/>
 </a>
+<img src="https://komarev.com/ghpvc/?username=i-Akhlaque&label=Profile%20Views&color=00D9FF&style=flat-square" alt="Profile Views"/>
 
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-</p>
+</div>
 
 ---
 
-<div align="center">
+# AKHLAQUE NABI
 
-### 💙 Thanks for visiting my profile!
+> **Code is not just written. It is designed, secured and brought to life.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=150&section=footer&animation=fadeIn" width="100%"/>
+I am a Computer Science student and technology enthusiast focused on building meaningful digital products, intelligent systems and secure software solutions.
 
-</div>
+My interests sit at the intersection of:
+
+- Full Stack Development
+- Cybersecurity and Ethical Hacking
+- Artificial Intelligence and Machine Learning
+- Digital Twins and Simulation
+- Product Design and Innovation
+- Real-world problem solving
+
+I enjoy transforming complex ideas into clean, functional and impactful experiences.
+
+---
+
+## CURRENTLY EXPLORING
+
+```text
+01  Full Stack Web Development
+02  Cybersecurity & Secure Systems
+03  Artificial Intelligence & Machine Learning
+04  Digital Twin & Simulation Technologies
+05  Cloud, APIs & Scalable Architecture
+06  Creative Product Design
